@@ -8,7 +8,6 @@ namespace MergeInterval
     {
         public int start { get; set; }
         public int end { get; set; }
-        public bool ismerged;
 
         public Interval() { }
 
